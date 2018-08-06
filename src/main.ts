@@ -1,0 +1,1 @@
+export { FacecontrolPlugin } from './plugin';
